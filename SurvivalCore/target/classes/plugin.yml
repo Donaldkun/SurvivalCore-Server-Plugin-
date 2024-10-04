@@ -1,0 +1,9 @@
+name: SurvivalCore
+version: '1.0'
+main: Kasteve.donald.survivalCore.SurvivalCore
+api-version: '1.21'
+commands:
+  lobby:
+    description: ロビーサーバーに転送します。
+  hub:
+    description: ロビーサーバーに転送します。
